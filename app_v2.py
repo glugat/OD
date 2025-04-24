@@ -137,7 +137,6 @@ maisons = pd.read_csv("m2 pour les maisons.csv", encoding='ISO-8859-1', sep=";")
 appart_petit = pd.read_csv("m2 pour appart 1 a 2 pieces.csv", encoding='ISO-8859-1', sep=";")
 appart_grand = pd.read_csv("m2 pour appart 3 piece et plus.csv", encoding='ISO-8859-1', sep=";")
 
-salaireNet = pd.read_csv("salaireNET.csv")
 
 # Traitement des données
 communes = communes_original
