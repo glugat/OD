@@ -1,6 +1,6 @@
 requests
 numpy
-panda
+pandas
 plotly
 shiny
 
