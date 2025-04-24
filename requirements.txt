@@ -1,4 +1,3 @@
-re
 requests
 unicodedata
 datetime
