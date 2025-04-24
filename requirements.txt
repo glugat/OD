@@ -3,4 +3,4 @@ numpy==1.23.5
 pandas==1.5.3
 plotly==5.11.0
 shiny==0.1.0
-shiny-express
+git+https://github.com/ton-repository/shiny-express.git
